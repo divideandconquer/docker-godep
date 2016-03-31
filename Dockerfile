@@ -1,3 +1,3 @@
-FROM golang:1.5.1
+FROM golang:1.6
 
 RUN go get github.com/tools/godep
